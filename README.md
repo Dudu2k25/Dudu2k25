@@ -51,7 +51,7 @@ Estou focado em aprofundar meus conhecimentos em frameworks front-end como React
 Estou aberto a novas oportunidades e colaborações. Sinta-se à vontade para entrar em contato!
 
 *   **GitHub**: [Dudu2k25](https://github.com/Dudu2k25)
-*   **LinkedIn**: (Adicione seu link do LinkedIn aqui)
-*   **Email**: (Adicione seu endereço de e-mail aqui)
+*   **LinkedIn**: 
+*   **Email**:
 
 ---
