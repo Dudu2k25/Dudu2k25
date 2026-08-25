@@ -8,5 +8,4 @@ Dev front-end em formação, focado em construir interfaces limpas e funcionais 
 🛠️ Stack
 HTML5 CSS3 JavaScript
 📂 Projetos
-	•	Tela-de-login — Interface de login responsiva com HTML, CSS e JavaScript
-	•	SUPERTRUNFOEMC — Jogo Super Trunfo em C, com foco em lógica e estruturas de dados
+	
