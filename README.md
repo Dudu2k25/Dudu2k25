@@ -2,7 +2,7 @@
 
 **Desenvolvedor de Software**
 
-💻 `JavaScript` · `TypeScript` · `React` · `Node.js` · `Python`
+💻 `JavaScript`  · `Python`
 
 
 
