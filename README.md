@@ -2,7 +2,7 @@
 
 **Desenvolvedor de Software**
 
-💻 `HTML`  · `CSS` . 'JAVASCRIPT' . 'React'
+💻 `HTML`  · `CSS` . 'Javascript ' . 'React'
 
 
 
